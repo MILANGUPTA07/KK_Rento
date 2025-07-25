@@ -93,7 +93,7 @@ export function AppProvider({ children }) {
       category: 'air-conditioners',
       price: 50,
       description: 'Energy efficient split AC with remote control and timer function.',
-      image: 'https://images.pexels.com/photos/10840950/pexels-photo-10840950.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://livpure.com/cdn/shop/articles/family-spending-time-together-outside_23-2148659464_e0d1fe68-5a26-488e-a17e-c1486f0d3d89-131818.jpg?v=1726725415',
       available: true,
       features: ['Remote Control', 'Timer Function', '5 Star Rating', 'Copper Coil']
     },
@@ -103,7 +103,7 @@ export function AppProvider({ children }) {
       category: 'air-conditioners',
       price: 35,
       description: 'Compact window AC perfect for small rooms.',
-      image: 'https://images.pexels.com/photos/8001236/pexels-photo-8001236.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/264095_rsz310.png?tr=w-640',
       available: true,
       features: ['Compact Design', 'Energy Efficient', 'Easy Installation']
     },
@@ -113,7 +113,7 @@ export function AppProvider({ children }) {
       category: 'furniture',
       price: 25,
       description: 'Comfortable ergonomic office chair with lumbar support.',
-      image: 'https://images.pexels.com/photos/586985/pexels-photo-586985.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://m.media-amazon.com/images/I/51hvdpY+A8L._SY300_SX300_QL70_FMwebp_.jpg',
       available: true,
       features: ['Ergonomic Design', 'Lumbar Support', 'Adjustable Height', 'Swivel Base']
     },
@@ -123,7 +123,7 @@ export function AppProvider({ children }) {
       category: 'furniture',
       price: 45,
       description: 'Spacious king size bed with premium mattress.',
-      image: 'https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://www.squaro.in/cdn/shop/files/IMG_20240229_210402.png?v=1709222452&width=1100',
       available: true,
       features: ['King Size', 'Premium Mattress', 'Wooden Frame', 'Storage Drawers']
     },
@@ -133,7 +133,7 @@ export function AppProvider({ children }) {
       category: 'furniture',
       price: 40,
       description: 'Comfortable 3-seater sofa perfect for living room.',
-      image: 'https://images.pexels.com/photos/1148952/pexels-photo-1148952.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://www.royaloakindia.com/media/catalog/product/s/f/sf5026-3.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=800&canvas=800:500',
       available: true,
       features: ['3 Seater', 'Fabric Upholstery', 'Comfortable Cushions', 'Modern Design']
     },
@@ -143,7 +143,7 @@ export function AppProvider({ children }) {
       category: 'furniture',
       price: 30,
       description: '4-seater dining table with chairs.',
-      image: 'https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://cdn.decornation.in/wp-content/uploads/2020/03/solid-wood-dining-table-2.jpg',
       available: true,
       features: ['4 Seater', 'Wooden Finish', 'Includes Chairs', 'Sturdy Build']
     }
