@@ -36,7 +36,7 @@ export default function ProductCard({ product }) {
         
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center text-primary-500">
-            <DollarSign className="h-5 w-5 mr-1" />
+            <span className="h-5 w-5 mr-1 text-lg">&#8377;</span>
             <span className="text-2xl font-bold">{product.price}</span>
             <span className="text-gray-500 ml-1">/day</span>
           </div>
